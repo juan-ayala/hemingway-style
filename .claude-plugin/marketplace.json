@@ -1,0 +1,12 @@
+{
+  "name": "hemingway-style",
+  "owner": {
+    "name": "Juan Ayala"
+  },
+  "plugins": [
+    {
+      "name": "hemingway-style",
+      "source": "./"
+    }
+  ]
+}

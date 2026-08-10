@@ -1,0 +1,8 @@
+{
+  "name": "hemingway-style",
+  "description": "Two-pass editor for human-read prose. Pass 1 strips AI-slop patterns (throat-clearing, forced contrasts, rule-of-three padding, dramatic em-dashes, hedging, fake agency). Pass 2 applies Hemingway-App-style readability rules (grade level, active voice, sentence length, jargon).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Juan Ayala"
+  }
+}

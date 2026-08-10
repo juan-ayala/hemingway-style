@@ -23,7 +23,11 @@ This project has no affiliation with hemingwayapp.com, and they haven't endorsed
 
 **Claude Desktop**
 
-Download [`skills/hemingway-style/SKILL.md`](skills/hemingway-style/SKILL.md) from this repo, then Customize panel (left sidebar) → Skills → Add → Upload a skill → drag in the file. It's a single self-contained `.md` file — no zip needed.
+No GitHub import exists in Desktop's Skills panel yet — download the file, then upload it:
+
+1. Download [`skills/hemingway-style/SKILL.md`](skills/hemingway-style/SKILL.md) from this repo.
+2. Customize panel (left sidebar) → Skills → Add → Upload a skill.
+3. Drag in the downloaded file. It's a single self-contained `.md` file — no zip needed.
 
 **Any other Agent-Skills-spec tool** (Cursor, Codex, OpenCode, and more)
 ```

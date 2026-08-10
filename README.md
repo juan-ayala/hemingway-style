@@ -23,7 +23,7 @@ This project has no affiliation with hemingwayapp.com, and they haven't endorsed
 
 **Claude Desktop**
 
-Customize panel (left sidebar) → Skills → "+" next to "Personal plugins" → "Add marketplace" → paste `juan-ayala/hemingway-style`.
+Download [`skills/hemingway-style/SKILL.md`](skills/hemingway-style/SKILL.md) from this repo, then Customize panel (left sidebar) → Skills → Add → Upload a skill → drag in the file. It's a single self-contained `.md` file — no zip needed.
 
 **Any other Agent-Skills-spec tool** (Cursor, Codex, OpenCode, and more)
 ```

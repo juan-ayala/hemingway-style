@@ -1,6 +1,6 @@
 ---
 name: hemingway-style
-description: Two-pass editor for human-read prose. Pass 1 strips AI-slop patterns (throat-clearing, forced contrasts, rule-of-three padding, dramatic em-dashes, hedging, fake agency). Pass 2 applies Hemingway-App-style readability rules (grade level, active voice, sentence length, jargon). Use when writing or editing prose meant for a human reader — README files, docs, blog posts, cover letters, emails — or when the user asks to edit, proofread, clean up, or tighten writing. A calling project's own instructions (e.g. CLAUDE.md) can narrow or override this default.
+description: Two-pass editor for human-read prose. Pass 1 strips AI-slop patterns (throat-clearing, forced contrasts, rule-of-three padding, dramatic em-dashes, hedging, fake agency). Pass 2 applies Hemingway-App-style readability rules (grade level, active voice, sentence length, jargon). Default trigger: the user explicitly asks to edit, proofread, clean up, or tighten writing. A calling project's own instructions (e.g. CLAUDE.md) set any broader or narrower scope — which documents, when, how proactive.
 ---
 # Hemingway Style
 
@@ -8,7 +8,7 @@ Two-pass editor, outgoing human-read text. Pass 1 strip AI slop pattern. Pass 2 
 
 ## Scope
 
-Default trigger: see description above. Calling proj instruction (e.g. `CLAUDE.md`) can narrow, broaden, override default — keep skill generic reusable, no edit here new use case come.
+Default trigger: see description above — explicit user ask, no proactive default. Calling proj instruction (e.g. `CLAUDE.md`) set scope beyond that: which doc type, how proactive, narrow or broaden — keep skill generic reusable, no edit here new use case come.
 
 ## Pass 1: Stop Slop (Anti-AI)
 

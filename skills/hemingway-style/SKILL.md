@@ -1,6 +1,6 @@
 ---
 name: hemingway-style
-description: Two-pass editor for human-read prose. Pass 1 strips AI-slop patterns (throat-clearing, forced contrasts, rule-of-three padding, dramatic em-dashes, hedging, fake agency). Pass 2 applies Hemingway-App-style readability rules (grade level, active voice, sentence length, jargon). Default trigger: the user explicitly asks to edit, proofread, clean up, or tighten writing. A calling project's own instructions (e.g. CLAUDE.md) set any broader or narrower scope — which documents, when, how proactive.
+description: "Two-pass editor for human-read prose. Pass 1 strips AI-slop patterns (throat-clearing, forced contrasts, rule-of-three padding, dramatic em-dashes, hedging, fake agency). Pass 2 applies Hemingway-App-style readability rules (grade level, active voice, sentence length, jargon). Default trigger: the user explicitly asks to edit, proofread, clean up, or tighten writing. A calling project's own instructions (e.g. CLAUDE.md) set any broader or narrower scope — which documents, when, how proactive."
 ---
 # Hemingway Style
 

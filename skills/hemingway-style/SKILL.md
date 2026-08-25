@@ -38,6 +38,8 @@ Run after Pass 1:
 - terminate -> end
 - subsequent -> next
 
+**De-nominalization**: Swap noun-form abstraction (-tion/-ment/-ance/-ity ending) for plain verb or short concrete noun, when meaning hold: implementation -> build, environment -> system, delivery -> shipping, hardening -> locking down, resolution -> fix, discovery -> talks. Skip where noun form carry precision verb form lose (e.g. "architecture" stay — no shorter word mean same thing). Biggest syllable-inflator in technical/business prose, hit domain jargon fixed list above miss.
+
 **Length**: Split sentence over 20-25 word. Shorter usually better, don't force choppy for own sake — grade level real target, not word count.
 
 **Structure**: Word count alone under-predict difficulty. Sentence under 20 word still hard read if stack clause complexity: 3+ item list, parenthetical or em-dash aside, trailing participial clause ("...styled by X," "...following Y"), or 2nd independent clause joined "and"/"so." Split when two stack one sentence, even under word cap.
@@ -62,4 +64,4 @@ Run after Pass 1:
 
 ## Output
 
-Deliver only final edited text by default. No meta-commentary, no change log, no "Pass 1 removed X, Pass 2 fixed Y" summary — unless user ask explicit for diff or explain of change.
+Deliver only final edit text, default. No meta-commentary, no change log, no "Pass 1 removed X, Pass 2 fixed Y" summary — unless user ask explicit for diff or explain of change.

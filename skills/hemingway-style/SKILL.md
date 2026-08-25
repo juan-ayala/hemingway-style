@@ -6,6 +6,10 @@ description: "Two-pass editor for human-read prose. Pass 1 strips AI-slop patter
 
 Two-pass editor, outgoing human-read text. Pass 1 strip AI slop pattern. Pass 2 use [hemingwayapp.com](https://hemingwayapp.com/) grade rule: short, direct, active prose, fast easy read. Run both pass, in order, every text skill touch.
 
+## Fact Lock
+
+Never change claim, number, scope, or attribution while edit. Cut word, restructure sentence, swap vocab — meaning stay bit-for-bit same. Unsure if cut lose meaning: keep it, don't cut.
+
 ## Scope
 
 Default trigger: see description above — explicit user ask, no proactive default. Calling proj instruction (e.g. `CLAUDE.md`) set scope beyond that: which doc type, how proactive, narrow or broaden — keep skill generic reusable, no edit here new use case come.
